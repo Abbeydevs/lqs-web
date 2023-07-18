@@ -1,0 +1,51 @@
+Milestone
+
+#Pages
+    - Home
+    - Services
+    - Blog
+    - Testimonials {Section Only}
+    - About
+    - Contact
+
+#Sections
+    - Homepage sections
+        - Navbar
+        - Hero
+        - Feature
+        - Services
+        - Testimonials
+        - Blog
+        - Contact
+        - Footer
+
+    - Services sections 
+        - Navbar
+        - Services Hero
+        - Features
+        - Footer
+    
+    - Blog sections
+        - Navbar
+        - Featured Story
+        - Other stories
+        - Footer
+    
+    - Testimonials
+        - Testimonials in Homepage
+    
+    - About
+        - Navbar
+        - About Hero
+        - Features
+        - The Team
+        - Make an Appointment (Contact us)
+        - Footer
+
+    - Contact
+        - Navbar
+        - Contact Hero
+        - Open Hours
+        - Map and Contact form
+        - FAQ
+        - Footer
