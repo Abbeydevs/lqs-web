@@ -10,7 +10,7 @@ Milestone
 
 #Sections
     - Homepage sections
-        - Navbar
+        - Navbar - Done
         - Hero
         - Feature
         - Services
@@ -20,13 +20,13 @@ Milestone
         - Footer
 
     - Services sections
-        - Navbar
+        - Navbar - Done
         - Services Hero
         - Features
         - Footer
     
     - Blog sections
-        - Navbar
+        - Navbar - Done
         - Featured Story
         - Other stories
         - Footer
@@ -35,7 +35,7 @@ Milestone
         - Testimonials in Homepage
     
     - About
-        - Navbar
+        - Navbar - Done
         - About Hero
         - Features
         - The Team
@@ -43,7 +43,7 @@ Milestone
         - Footer
 
     - Contact
-        - Navbar
+        - Navbar - Done
         - Contact Hero
         - Open Hours
         - Map and Contact form
