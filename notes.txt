@@ -19,7 +19,7 @@ Milestone
         - Contact
         - Footer
 
-    - Services sections 
+    - Services sections
         - Navbar
         - Services Hero
         - Features
