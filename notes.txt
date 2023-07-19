@@ -15,9 +15,9 @@ Milestone
         - Feature - Done
         - Services - Done
         - Testimonials - Done
-        - Blog - 
-        - Contact
-        - Footer
+        - Blog - Done
+        - Contact - Done
+        - Footer - 
 
     - Services sections
         - Navbar - Done
