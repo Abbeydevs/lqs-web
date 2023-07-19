@@ -25,3 +25,28 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.img-section1 {
+  background-image: url(../../public/img1.jpeg) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.img-section2 {
+  background-image: url(../../public/img2.jpeg) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.img-section3 {
+  background-image: url(../../public/img3.jpeg) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-button-prev, .swiper-button-next {
+  color: black !important;
+}

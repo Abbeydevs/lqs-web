@@ -11,11 +11,11 @@ Milestone
 #Sections
     - Homepage sections
         - Navbar - Done
-        - Hero
-        - Feature
-        - Services
-        - Testimonials
-        - Blog
+        - Hero - Done
+        - Feature - Done
+        - Services - Done
+        - Testimonials - Done
+        - Blog - 
         - Contact
         - Footer
 

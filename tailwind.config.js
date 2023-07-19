@@ -7,11 +7,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'swiper-img1': "url('/public/img1.jpeg')",
+        'swiper-img2': 'url(public/img2.jpeg)',
+        'swiper-img3': 'url(public/img3.jpeg)',
+      },
       colors: {
         transparent: 'transparent',
         'white': '#ffffff',
         'white-fade': '#F9F9F9',
-        'white-dark': 'AEBCD4',
+        'white-dark': '#AEBCD4',
         'white-extra-fade': '#ECF4FA',
         'blue': '#033B71',
         'blue-dark': '#011930',
